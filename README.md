@@ -1,4 +1,9 @@
 # NE111-Game
 First steps: 
-  To-do-list
+To-do-list: Sprites
+  GUI
+  problems
+  animations
+  
+
   
