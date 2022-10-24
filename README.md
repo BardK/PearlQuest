@@ -1,2 +1,4 @@
 # NE111-Game
-Game
+First steps: 
+  To-do-list
+  
