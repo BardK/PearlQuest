@@ -1,4 +1,4 @@
-# Shadow of 
+# Pearl Quest
 First steps: 
 To-do-list: Sprites
   GUI
