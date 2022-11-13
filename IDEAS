@@ -31,3 +31,13 @@ and also not a rougelike
 
 https://www.youtube.com/playlist?list=PLVFWKkB2K-TnsGDz7xrN27IpCU5I1bery
 https://youtu.be/b_DkQrJxpck?list=PLVFWKkB2K-TnsGDz7xrN27IpCU5I1bery
+
+
+Game states: use if statements for each individual components in the main game loop  (very simple)
+while running:
+if game_state == "menu"
+  menu
+ elif game_state == "cutscene 1":
+  etc
+  game_state == "level 1"
+ etc etc etc...
