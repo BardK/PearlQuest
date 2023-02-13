@@ -1,3 +1,4 @@
+#Read Me
 Please do not rename any files or move images, the game will not work
 
 Only runs on Windows (file names use \ )
