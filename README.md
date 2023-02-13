@@ -1,4 +1,5 @@
 ![Title](https://cdn.discordapp.com/attachments/652512903655850008/1074798292430508144/Title.png)
+
 Please do not rename any files or move images, the game will not work
 
 Only runs on Windows (file names use \ )
