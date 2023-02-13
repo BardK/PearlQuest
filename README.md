@@ -6,6 +6,7 @@ Pearl Quest is a game made by our group as a project for our coding course. It i
 
 This project was really fun to develop, whether it was creating sprites, creating fun gameplay mechanics or spending hours debugging :')
 
+![Promotion Image](https://cdn.discordapp.com/attachments/652512903655850008/1074801270637985822/promotion.png)
 ## Some typical ReadMe info:
 
 Please do not rename any files or move images, the game will not work
