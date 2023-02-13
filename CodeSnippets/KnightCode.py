@@ -9,7 +9,7 @@ sh=500
 
 screen = pg.display.set_mode((sw,sh))
 clock = pg.time.Clock()
-pg.display.set_caption('uwurawr')
+pg.display.set_caption('Pearl Quest')
 
 gidle=[pg.image.load(img) for img in glob.glob("Gunner\\*.png")]
 kidle=[pg.image.load(img) for img in glob.glob("Knight\\*.png")]
