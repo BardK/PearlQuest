@@ -10,7 +10,7 @@ This project was really fun to develop, whether it was creating sprites, creatin
 
 
 
-![Promotion Image](https://cdn.discordapp.com/attachments/652512903655850008/1074801270637985822/promotion.png)
+![Promotion Image](https://cdn.discordapp.com/attachments/652512903655850008/1074802134173892637/promotion.png)
 ## Some typical ReadMe info:
 
 Please do not rename any files or move images, the game will not work
